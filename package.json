@@ -1,0 +1,21 @@
+{
+    "name": "calmbits",
+    "displayName": "CalmBits",
+    "description": "A soothing developer theme for us creatures of the night!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CalmBits Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CalmBits Dark-color-theme.json"
+            }
+        ]
+    }
+}
